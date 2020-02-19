@@ -1,2 +1,3 @@
 # Concurrent-computations
-Cuncurrent computations 
+ * Used OpenMP, C for concurrent computations
+ 
